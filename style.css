@@ -10,9 +10,9 @@ body{
 .box{
     border: 3px solid; border-radius: 20px; border-color: white;
     height: auto;
-    width: 720px;
+    width: 360px;
     margin: auto;
-    padding: 40px;
+    padding: 20px;
     background-color: white;
 }
 #box_1{
@@ -42,5 +42,4 @@ p{
 #box_6{
     position: relative;left: 80px;
     font-family: Outfit; font-weight: 400;
-    display: flow-root;
 }
