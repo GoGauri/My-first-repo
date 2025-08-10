@@ -1,0 +1,45 @@
+@font-face{
+    src: url(outfit.ttf);
+}
+@font-face{
+    src: url(YoungSerif-Regular.ttf);
+}
+body{
+    background-color: hsl(30, 54%, 90%);
+}
+.box{
+    border: 3px solid; border-radius: 20px; border-color: white;
+    height: auto;
+    width: 720px;
+    margin: auto;
+    padding: 20px;
+    background-color: white;
+}
+#box_1{
+    text-align: center;
+}
+#box_2{
+    position: relative; left: 32px;
+}
+p{
+    font-size: 16px; font-family: Outfit; font-weight: 400;
+}
+#box_3{
+    position: relative; left: 32px;
+    border: 2px solid; border-radius: 10px; border-color: hsl(330, 100%, 98%);
+    background-color: hsl(330, 100%, 98%);
+    height: auto; width: 656px;
+}
+#box_4{
+    position: relative; left: 32px;
+    height: auto; width: 656px;
+}
+#box_5{
+    position: relative; left: 32px;
+    height: auto; width: 656px;
+    font-family: Outfit; font-weight: 400;
+}
+#box_6{
+    position: relative;left: 80px;
+    font-family: Outfit; font-weight: 400;
+}
