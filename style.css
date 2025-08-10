@@ -10,9 +10,9 @@ body{
 .box{
     border: 3px solid; border-radius: 20px; border-color: white;
     height: auto;
-    width: 1440px;
+    width: 720px;
     margin: auto;
-    padding: 20px;
+    padding: 40px;
     background-color: white;
 }
 #box_1{
