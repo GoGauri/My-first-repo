@@ -1,2 +1,2 @@
 # index.html
-gogauri.github.io/My-first-repo/
+https://gogauri.github.io/My-first-repo/
